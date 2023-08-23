@@ -28,5 +28,5 @@ https://maxim-mishustin.github.io/movies-explorer-api/
 
 ## Ccылка на Pull requests
 
-- 
+https://github.com/Maxim-Mishustin/movies-explorer-api/pull/1
 
